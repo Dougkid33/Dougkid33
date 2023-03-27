@@ -3,8 +3,8 @@
 
 
 - 🔭 Hoje estou procurando uma oportunidade de estágio ou desenvolvedor Jr.
-- 🌱 Atualmente estudando Angular,Typerscript,C#, Estrutura de Dados, Python, Javascript, HTML5, CSS3, MySQL.
-- 🤔 Busco ajuda com as linguagens que estou aprendendo e evoluir meu conhecimento.
+- 🌱 Atualmente estudando Angular,Typerscript,C#, Estrutura de Dados, Programação orientada a Objetos, Python, Javascript, HTML5, CSS3, MySQL.
+- 🤔 Busco ajuda com as linguagens que estou aprendendo, uma vaga de estágio e/ou Jr. e evoluir meu conhecimento.
 - 📫 Contate - me no email: douglasaugustomsilva@hotmail.com
 - ⚡ E também sou desenhista/Ilustrador Digital, confira no @dougkid_arts
 <div align="center">
