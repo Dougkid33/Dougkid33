@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje estou procurando uma oportunidade de estágio ou desenvolvedor Jr.
-- 🌱 Atualmente estudando Angular,Typerscript,C#, Estrutura de Dados, Programação orientada a Objetos, Python, Javascript, HTML5, CSS3, MySQL.
+- 🌱 Atualmente estudando Angular,Typerscript,C#, Estrutura de Dados, Programação orientada a Objetos com Java, Python, Javascript, HTML5, CSS3, MySQL.
 - 🤔 Busco ajuda com as linguagens que estou aprendendo, uma vaga de estágio e/ou Jr. e evoluir meu conhecimento.
 - 📫 Contate - me no email: douglasaugustomsilva@hotmail.com
 - ⚡ E também sou desenhista/Ilustrador Digital, confira no @dougkid_arts
@@ -29,7 +29,7 @@
 <br>
 <br>
 <br>
-![Snake animation](https://github.com/Dougkid33/Dougkid33/blob/output/github-contribution-grid-snake.svg) 
+ 
 <div>
   
   <a href="https://www.instagram.com/dougkid/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
