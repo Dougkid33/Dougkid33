@@ -4,17 +4,15 @@
 
 
 
-- 🔭 Hoje estou procurando uma oportunidade de estágio ou desenvolvedor Jr.
+- 🔭 Dev. FullStack
 - 🌱 Atualmente estudando Angular,Typerscript,C#, Estrutura de Dados, Programação orientada a Objetos com Java, Python, Javascript, HTML5, CSS3, MySQL.
-- 🤔 Busco ajuda com as linguagens que estou aprendendo, uma vaga de estágio e/ou Jr. e evoluir meu conhecimento.
 - 📫 Contate - me no email: douglasaugustomsilva@hotmail.com
 - ⚡ E também sou desenhista/Ilustrador Digital, confira no @dougkid_arts
  <br>
 
 
- - 🔭 Today I am looking for an internship or Junior Developer opportunity.<br>
+ - 🔭 Today I am FullStack Developer.<br>
  - 🌱 Currently studying Angular, Typerscript, C#, Data Structures, Object-Oriented Programming with Java, Python, Javascript, HTML5, CSS3, MySQL.<br>
- - 🤔 I am seeking help with the languages I am learning, an internship and/or Junior position to advance my knowledge.<br>
  - 📫 Contact me at douglasaugustomsilva@hotmail.com.<br>
  - ⚡ I am also a digital illustrator/artist, check out @dougkid_arts.<br>
 
