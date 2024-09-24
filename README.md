@@ -4,58 +4,77 @@
 
 
 
-🚀 Desenvolvedor FullStack Jr. | Experiência com NodeJS e Angular | 📧 E-mail: douglasaugustomsilva@hotmail.com
+🚀 Desenvolvedor Fullstack Jr. | Experiência em Node.js e Angular
+📧 douglasaugustomsilva@hotmail.com | GitHub | LinkedIn
 
-🚀 Habilidades Técnicas:
+💻 Habilidades Técnicas:
 
-- **Linguagens**: NodeJS (APIs RESTful, autenticação, gerenciamento de estado, bancos de dados), Angular (interfaces web responsivas), TypeScript, JavaScript.
-- **Controle de Versão**: Git, GitHub; experiência com GitLab e integração CI/CD.
-- **Metodologias Ágeis**: Scrum, Kanban.
-- **Banco de Dados**: Oracle PL/SQL, MySQL, MongoDB.
-- **Outras Tecnologias**: Docker, experiência com C, C#, Java, Kotlin, Python, React, Flask.
-
+Linguagens & Frameworks:
+Node.js (APIs RESTful, autenticação, gerenciamento de estado, integração com bancos de dados)
+Angular (interfaces web responsivas)
+TypeScript, JavaScript
+Controle de Versão: Git, GitHub; Experiência com GitLab e integração CI/CD
+Metodologias Ágeis: Scrum, Kanban
+Bancos de Dados: Oracle PL/SQL, MySQL, MongoDB, Prisma ORM
+Outras Tecnologias: Docker, C, C#, Java, Kotlin, Python, React, Flask
 💡 Sobre Mim:
-Desenvolvedor Fullstack Jr. motivado, com experiência em ambientes desafiadores e colaborativos, buscando oportunidades para aprimorar habilidades e contribuir com soluções inovadoras. Com competências avançadas em NodeJS e Angular, estou preparado para contribuir ativamente para o sucesso da equipe.
+Sou um Desenvolvedor Fullstack Jr. focado em resolver problemas complexos e entregar soluções de alto impacto. Com forte experiência em Node.js e Angular, trabalho bem em ambientes dinâmicos e colaborativos, buscando continuamente aprimorar minhas habilidades e contribuir para o sucesso de projetos e equipes.
 
 🎯 Experiência Profissional:
-- **Desenvolvedor Fullstack Jr.** na Bravo Serviços Logísticos, desde Outubro de 2023.
-- **Analista de Sistemas Jr.** na TSF Informática, de Novembro de 2022 a Março de 2023.
-- **Suporte Técnico** na SIG Soluções, de Julho a Outubro de 2023.
 
-📚 Educação:
+Desenvolvedor Fullstack Jr. na Bravo Serviços Logísticos (Out/2023 - Presente)
+Desenvolvimento e aprimoramento de APIs e integrações no sistema EVOLOG utilizando Node.js, Angular e Oracle PL/SQL.
+Analista de Sistemas Jr. na TSF Informática (Nov/2022 - Mar/2023)
+Focado no desenvolvimento de back-end e manutenção de sistemas, utilizando TypeScript, SQL e Java.
+Suporte Técnico na SIG Soluções (Jul/2023 - Out/2023)
+Atendimento a usuários, manutenção de sistemas e resolução de problemas técnicos.
+🎓 Formação Acadêmica:
 
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** (Previsão de conclusão: 12/2024), Instituto Federal do Triângulo Mineiro - Uberaba.
-- **Bacharelado em Administração** (Concluído em 12/2018), Universidade de Uberaba - Uniube.
+Tecnólogo em Análise e Desenvolvimento de Sistemas (Previsão de conclusão: Dez/2024)
+Instituto Federal do Triângulo Mineiro (IFTM) - Uberaba
 
-✨ Sempre em Busca de Desafios:
-Estou constantemente em busca de novos desafios e oportunidades para crescer profissionalmente e inovar. Se você procura um desenvolvedor dedicado e comprometido, pronto para fazer a diferença, entre em contato através do meu e-mail ou [LinkedIn](linkedin.com/in/douglas-augusto-93b845a2/) para explorarmos como posso contribuir para a sua equipe!
- <br>
+Bacharelado em Administração (Concluído em Dez/2018)
+Universidade de Uberaba (Uniube)
 
-🚀 Junior FullStack Developer | Experience with NodeJS and Angular | 📧 Email: douglasaugustomsilva@hotmail.com
+✨ Busco Novos Desafios:
+Estou sempre em busca de novas oportunidades para evoluir profissionalmente e aplicar minhas habilidades em projetos inovadores. Se você procura um desenvolvedor dedicado e focado em resultados, entre em contato comigo pelo e-mail douglasaugustomsilva@hotmail.com para discutirmos como posso contribuir para a sua equipe!
 
-🚀 Technical Skills:
 
-- **Languages**: NodeJS (RESTful APIs, authentication, state management, databases), Angular (responsive web interfaces), TypeScript, JavaScript.
-- **Version Control**: Git, GitHub; experience with GitLab and CI/CD integration.
-- **Agile Methodologies**: Scrum, Kanban.
-- **Databases**: Oracle PL/SQL, MySQL, MongoDB.
-- **Other Technologies**: Docker, experience with C, C#, Java, Kotlin, Python, React, Flask.
+=============================================================================  English ==========================================================================
+🚀 Fullstack Developer Jr. | Experience in Node.js e Angular
+📧 douglasaugustomsilva@hotmail.com | GitHub | LinkedIn
 
+💻 Technical Skills:
+
+Languages & Frameworks:
+Node.js (RESTful APIs, authentication, state management, database integration)
+Angular (responsive web interfaces)
+TypeScript, JavaScript
+Version Control: Git, GitHub; Experience with GitLab and CI/CD integration
+Agile Methodologies: Scrum, Kanban
+Databases: Oracle PL/SQL, MySQL, MongoDB, Prisma ORM
+Other Technologies: Docker, C, C#, Java, Kotlin, Python, React, Flask
 💡 About Me:
-Motivated Junior Fullstack Developer, experienced in challenging and collaborative environments, seeking opportunities to enhance skills and contribute with innovative solutions. With advanced competencies in NodeJS and Angular, I am ready to actively contribute to the team's success.
+I am a Fullstack Developer Jr. passionate about solving complex problems and delivering high-impact solutions. With strong experience in Node.js and Angular, I thrive in dynamic and collaborative environments, constantly seeking to enhance my skills and contribute to the success of projects and teams.
 
 🎯 Professional Experience:
-- **Junior Fullstack Developer** at Bravo Logistics Services, since October 2023.
-- **Junior Systems Analyst** at TSF Informática, from November 2022 to March 2023.
-- **Technical Support** at SIG Solutions, from July to October 2023.
 
-📚 Education:
+Fullstack Developer Jr. at Bravo Serviços Logísticos (Oct/2023 - Present)
+Developing and enhancing APIs and integrations in the EVOLOG system using Node.js, Angular, and Oracle PL/SQL.
+Junior Systems Analyst at TSF Informática (Nov/2022 - Mar/2023)
+Focused on backend development and system maintenance, utilizing TypeScript, SQL, and Java.
+Technical Support at SIG Soluções (Jul/2023 - Oct/2023)
+Providing user support, maintaining systems, and resolving technical issues.
+🎓 Education:
 
-- **Technologist in Systems Analysis and Development** (Expected completion: 12/2024), Federal Institute of the Triângulo Mineiro - Uberaba.
-- **Bachelor of Administration** (Completed in 12/2018), University of Uberaba - Uniube.
+Technologist in Systems Analysis and Development (Expected: Dec/2024)
+Instituto Federal do Triângulo Mineiro (IFTM) - Uberaba
 
-✨ Always Seeking Challenges:
-I am constantly looking for new challenges and opportunities for professional growth and innovation. If you're looking for a dedicated and committed developer, ready to make a difference, please contact me via my email or [LinkedIn](linkedin.com/in/douglas-augusto-93b845a2/) to explore how I can contribute to your team!
+Bachelor of Business Administration (Completed: Dec/2018)
+University of Uberaba (Uniube)
+
+✨ Seeking New Challenges:
+I am always looking for new opportunities to grow professionally and apply my skills to innovative projects. If you're seeking a dedicated developer focused on results, feel free to reach out via email at douglasaugustomsilva@hotmail.com to discuss how I can contribute to your team!
 
 <div align="center"> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dougkid33&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=00FA9A&text_color=00FF7F&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
