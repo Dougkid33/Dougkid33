@@ -1,110 +1,125 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Douglas+Marcelino;I'm+28+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h1 align="center">Douglas Marcelino</h1>
+<h3 align="center">Backend Engineer • Data Engineering • System Architecture</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=28&center=true&vCenter=true&width=900&lines=Backend+Systems+Builder;Data+Engineering+Enthusiast;Architecture+Driven+Developer;Preparing+Systems+for+AI+Integration" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dougkid33&color=7B68EE" />
+  <img src="https://img.shields.io/github/followers/Dougkid33?style=social" />
+</p>
 
-🚀 Desenvolvedor Fullstack Jr. | Experiência em Node.js e Angular
-📧 douglasaugustomsilva@hotmail.com | GitHub | LinkedIn
+---
 
-💻 Habilidades Técnicas:
+## 🚀 About Me
 
-Linguagens & Frameworks:
-Node.js (APIs RESTful, autenticação, gerenciamento de estado, integração com bancos de dados)
-Angular (interfaces web responsivas)
-TypeScript, JavaScript
-Controle de Versão: Git, GitHub; Experiência com GitLab e integração CI/CD
-Metodologias Ágeis: Scrum, Kanban
-Bancos de Dados: Oracle PL/SQL, MySQL, MongoDB, Prisma ORM
-Outras Tecnologias: Docker, C, C#, Java, Kotlin, Python, React, Flask
-💡 Sobre Mim:
-Sou um Desenvolvedor Fullstack Jr. focado em resolver problemas complexos e entregar soluções de alto impacto. Com forte experiência em Node.js e Angular, trabalho bem em ambientes dinâmicos e colaborativos, buscando continuamente aprimorar minhas habilidades e contribuir para o sucesso de projetos e equipes.
+I build **structured, scalable and AI-ready backend systems**.
 
-🎯 Experiência Profissional:
+My focus goes beyond writing APIs — I design:
 
-Desenvolvedor Fullstack Jr. na Bravo Serviços Logísticos (Out/2023 - Presente)
-Desenvolvimento e aprimoramento de APIs e integrações no sistema EVOLOG utilizando Node.js, Angular e Oracle PL/SQL.
-Analista de Sistemas Jr. na TSF Informática (Nov/2022 - Mar/2023)
-Focado no desenvolvimento de back-end e manutenção de sistemas, utilizando TypeScript, SQL e Java.
-Suporte Técnico na SIG Soluções (Jul/2023 - Out/2023)
-Atendimento a usuários, manutenção de sistemas e resolução de problemas técnicos.
-🎓 Formação Acadêmica:
+- Clean architectures  
+- Data pipelines  
+- Layered domain structures  
+- Systems prepared for AI integration  
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas (Previsão de conclusão: Dez/2024)
-Instituto Federal do Triângulo Mineiro (IFTM) - Uberaba
+I apply principles like:
 
-Bacharelado em Administração (Concluído em Dez/2018)
-Universidade de Uberaba (Uniube)
+- Domain-Driven Design (DDD)  
+- SOLID  
+- Repository Pattern  
+- Separation of Concerns  
+- Clean Architecture  
 
-✨ Busco Novos Desafios:
-Estou sempre em busca de novas oportunidades para evoluir profissionalmente e aplicar minhas habilidades em projetos inovadores. Se você procura um desenvolvedor dedicado e focado em resultados, entre em contato comigo pelo e-mail douglasaugustomsilva@hotmail.com para discutirmos como posso contribuir para a sua equipe!
+My goal is to evolve toward **Data Engineering and Intelligent Systems Architecture**.
 
+---
 
-=============================================================================  English ==========================================================================
-🚀 Fullstack Developer Jr. | Experience in Node.js e Angular
-📧 douglasaugustomsilva@hotmail.com | GitHub | LinkedIn
+## 🏗 Architecture Mindset
 
-💻 Technical Skills:
+- Domain Layer isolated from infrastructure  
+- Repository abstraction for database flexibility  
+- Replaceable scoring / AI engines  
+- Versioned data persistence  
+- Scalable pipeline structure  
 
-Languages & Frameworks:
-Node.js (RESTful APIs, authentication, state management, database integration)
-Angular (responsive web interfaces)
-TypeScript, JavaScript
-Version Control: Git, GitHub; Experience with GitLab and CI/CD integration
-Agile Methodologies: Scrum, Kanban
-Databases: Oracle PL/SQL, MySQL, MongoDB, Prisma ORM
-Other Technologies: Docker, C, C#, Java, Kotlin, Python, React, Flask
-💡 About Me:
-I am a Fullstack Developer Jr. passionate about solving complex problems and delivering high-impact solutions. With strong experience in Node.js and Angular, I thrive in dynamic and collaborative environments, constantly seeking to enhance my skills and contribute to the success of projects and teams.
+Systems are built to evolve.
 
-🎯 Professional Experience:
+---
 
-Fullstack Developer Jr. at Bravo Serviços Logísticos (Oct/2023 - Present)
-Developing and enhancing APIs and integrations in the EVOLOG system using Node.js, Angular, and Oracle PL/SQL.
-Junior Systems Analyst at TSF Informática (Nov/2022 - Mar/2023)
-Focused on backend development and system maintenance, utilizing TypeScript, SQL, and Java.
-Technical Support at SIG Soluções (Jul/2023 - Oct/2023)
-Providing user support, maintaining systems, and resolving technical issues.
-🎓 Education:
+## 🧠 Currently Learning
 
-Technologist in Systems Analysis and Development (Expected: Dec/2024)
-Instituto Federal do Triângulo Mineiro (IFTM) - Uberaba
+- Advanced Data Engineering concepts  
+- Event-driven architecture  
+- Distributed systems fundamentals  
+- Feature stores for ML pipelines  
+- AI model integration patterns  
+- MLOps foundations  
 
-Bachelor of Business Administration (Completed: Dec/2018)
-University of Uberaba (Uniube)
+---
 
-✨ Seeking New Challenges:
-I am always looking for new opportunities to grow professionally and apply my skills to innovative projects. If you're seeking a dedicated developer focused on results, feel free to reach out via email at douglasaugustomsilva@hotmail.com to discuss how I can contribute to your team!
+## 💻 Tech Stack
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00FF7F)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00FA9A)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FFD43B)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=c-sharp&logoColor=8A2BE2)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=FF8C00)
+
+### Databases
+![Oracle](https://img.shields.io/badge/Oracle-0d1117?style=for-the-badge&logo=oracle&logoColor=FF0000)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00FA9A)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4CAF50)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=00BFFF)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00BFFF)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![CI/CD](https://img.shields.io/badge/CI/CD-0d1117?style=for-the-badge&logo=githubactions&logoColor=7B68EE)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dougkid33&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=00FA9A&text_color=00FF7F&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dougkid33&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=00FA9A&text_color=00FF7F&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dougkid33&layout=compact&hide_border=true&title_color=9932CC&text_color=00FF7F&bg_color=0d1117" />
 </div>
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Rafa-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Rafa-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+---
 
+## 🔥 Featured Project
+
+### ☢️ Doomsday Clock AI
+
+A structured data pipeline project built with:
+
+- Multi-source RSS ingestion  
+- Deduplication layer  
+- Sentiment baseline scoring  
+- Category classification  
+- SQLite versioned persistence  
+- Official historical comparison  
+- AI-ready architecture  
+
+Primary focus: **Pipeline engineering and system design**, not just visualization.
+
+---
+
+## 🌌 Connect With Me
+
+<div align="center">
+  <a href="mailto:douglasaugustomsilva@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=microsoft-outlook&logoColor=00FA9A" />
+  </a>
+  <a href="https://www.linkedin.com/in/douglas-augusto-93b845a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FA9A" />
+  </a>
 </div>
 
-<br>
-<br>
-<br>
- 
-<div align="center">
-  
-  <a href="https://www.instagram.com/dougkid/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:douglasaugustomsilva@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/douglas-augusto-93b845a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  </div>
-            
-          
+---
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
